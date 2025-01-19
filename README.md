@@ -15,5 +15,5 @@ Project Tailwind adalah sebuah aplikasi website yang dibuat oleh studentday prog
 - ### View yang Berisi Data (CRUD)  <br><br>
   <p align="center"><img src="foto/konten/Screenshot (86).png" width="700px"></p>
 - ### Menu Registrasi dan Login <br><br>
-  <p align="center"><img src="foto/konten/Screenshot (84).png" width="400px" height="700px"     ></p>
+  <p align="center"><img src="foto/konten/Screenshot (84).png" width="700px"     ></p>
 
